@@ -1,3 +1,4 @@
+
 # Diabetes Prediction System using KNN
 
 This project is a machine learning-based system that predicts whether a person is likely to have diabetes. It uses the **K-Nearest Neighbors (KNN)** algorithm and a healthcare dataset to provide predictions based on user input.
@@ -43,4 +44,38 @@ The model is trained using the **PIMA Indian Diabetes Dataset**, which is common
    ```bash
    git clone https://github.com/yourusername/diabetes-prediction-knn.git
    cd diabetes-prediction-knn
+````
+
+2. Install the dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run the model:
+
+   ```bash
+   python diabetes_knn.py
+   ```
+
+4. (Optional) If using Jupyter Notebook:
+
+   ```bash
+   jupyter notebook
+   ```
+
+## 📈 Output
+
+The system will print whether the user is **likely diabetic** or **not diabetic** based on their input values.
+
+## 📬 Contact
+
+For any queries or suggestions, feel free to reach out.
+
+---
+
+```
+
+Let me know if you want to include screenshots, Jupyter Notebook support, GUI interface (if added), or hosting (like Streamlit). I can update accordingly.
+```
 
